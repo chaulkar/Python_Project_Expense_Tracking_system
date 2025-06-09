@@ -1,5 +1,7 @@
 # Expense Tracking System
 
+[LinkedIn Post to demonstrate application working](https://www.linkedin.com/posts/shreyas-chaulkar-337669190_python-fastapi-streamlit-activity-7337924158460149761-cxtV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzyrJsBnNWK3_fC1nmWurykPc4QtEv_TaU)
+
 This Expense Tracking System project consists streamlit
 frontend application and FASTAPI backend server.
 
